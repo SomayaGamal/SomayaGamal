@@ -13,8 +13,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20QA%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👋 Hi, I'm a Software QC Engineer. 
-- 👀 I’m interested in SDLC, SDLT, Testing, Agile, Scrum, SQL, Java, C#
+- 👋 Hi, I'm a Software QA Engineer. 
+- 👀 I’m interested in SDLC, SDLT, Testing, ISTQB, Quality, Agile, Scrum, SQL, Java, C#
 - 🌱 I’m currently learning Testing Automation. 
 - 💞️ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
